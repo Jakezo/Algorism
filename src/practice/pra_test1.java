@@ -26,3 +26,18 @@ public class pra_test1 {
 	}
 
 }
+class Solution {   // 프로그래머스는 이렇게 제출해야함 여기서 스캐너 쓸 필요없음 solution n 이 있다는 가정이라.
+	  public int solution(int n) {
+	       
+			int answer = 0;
+			for(int i = 1; i <= n; i++) {
+				if(n%i == 0) {
+				
+				int yak = n / i;
+				answer += yak;
+				}
+			}
+	     
+	      return answer;
+	  }
+	}

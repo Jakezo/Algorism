@@ -51,7 +51,7 @@ public class Study_Interface_01 {
 		Calc cal = new CompleteCalc();
 		
 		int num1 = 10;
-		int num2 = 2;
+		int num2 = 0;
 		
 		System.out.println(cal.add(num1, num2));
 		System.out.println(cal.substract(num1, num2));

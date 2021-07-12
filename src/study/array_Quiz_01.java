@@ -13,7 +13,7 @@ public class array_Quiz_01 {
 		
 		double [] tall = new double[name.length];
 		
-		double max = 0;
+		double max2 = 0;
 		
 		
 		
@@ -23,7 +23,6 @@ public class array_Quiz_01 {
 			System.out.print("키 입력 >>>");
 			tall[i] = sc.nextDouble();
 		}
-		double max2 = tall[0];
 		
 		for(int j =0 ; j <name.length; j++) {
 			if(max2 < tall[j]) {

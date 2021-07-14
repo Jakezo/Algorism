@@ -25,7 +25,7 @@ public class array_Quiz_04 {
 				
 				lotto[i][j] = bal[rand];
 				
-				
+				//rand
 				
 				
 				

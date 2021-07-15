@@ -21,9 +21,11 @@ public class array_Quiz_04 {
 			}
 			
 			for(int j = 0; j < lotto[i].length; j++) {
-				int rand = (int)(Math.random() * balCou);
+				int rand = (int)(Math.random() * balCou);  // 0~ 44, ball 배열의 인덱스
 				
 				lotto[i][j] = bal[rand];
+				int lastIdx = 44 - j;
+				
 				
 				//rand
 				

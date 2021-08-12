@@ -12,7 +12,7 @@ public class Study_IndexOf_01 {
 			 
 			 System.out.println( indexOfTestOne.lastIndexOf("o") ); // 7 
 			 System.out.println( indexOfTestOne.lastIndexOf("x") ); // -1 
-			 System.out.println( indexOfTestOne.lastIndexOf("o",5) ); // 4
+			 System.out.println( indexOfTestOne.lastIndexOf("o",5) ); // 4r
 
 	}
 	

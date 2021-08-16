@@ -14,7 +14,7 @@ public class array_2 {
 				{5,6}
 		};
 		
-		// 2차원 배열의 접근(순회) 방식은 "행 우선(row)  "
+		// 2차원 배열의 접근(순회) 방식은 "행 우선(row)   "
 		
 		for(int i = 0; i< a.length; i++) {
 			for(int j=0; j< a[i].length; j++) {

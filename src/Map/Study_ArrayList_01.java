@@ -27,7 +27,6 @@ public class Study_ArrayList_01 {
 		// 7. 검색 : contains() 메소드
 				if (iList.contains(new Integer(30)))	// iList에 30이 있는가?
 					System.out.println("30이 있다.");
-				
 				// 8. 출력 
 				System.out.println(iList); //[ , , , .]
 				

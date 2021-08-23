@@ -73,7 +73,6 @@ public class Q01_pra {
 			System.out.print("알람을 맞출 시간은 " + H + "시" + M + "분 입니다.");
 			break;
 		}
-
 	}
 
 	private static void q03() {

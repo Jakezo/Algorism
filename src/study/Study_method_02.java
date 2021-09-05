@@ -1,6 +1,9 @@
 package study;
 
 class CallMeName{
+	
+//	public ConstructorEx01(){ } // Default Constructor 자동 생성
+
 	static void print() {
 		System.out.println("프린트를 합니다");
 	}

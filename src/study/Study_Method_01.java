@@ -59,6 +59,20 @@ public class Study_Method_01 {
 		
 		public static void main(String[] args) {
 			
+//			Study_Method_01.stu_1();
+//			
+//			
+//			Study_Method_01.stu_2(10);
+//			
+//			stu_1();
+//			
+//			stu_3(2222);
+//			
+			
+			sister_5(null, 30);
+			
+			
+			
 			
 			
 			

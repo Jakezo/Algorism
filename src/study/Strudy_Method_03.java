@@ -1,8 +1,6 @@
 package study;
 
 	
-	
-	
 class Carino{
 	String company =" 현대차";
 	String model ="그렌져";
@@ -15,8 +13,6 @@ class Carino{
 		this.speed =speed;
 		
 	}
-	
-	
  }
 
 public class Strudy_Method_03 {
